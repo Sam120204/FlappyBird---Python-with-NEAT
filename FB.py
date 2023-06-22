@@ -267,5 +267,3 @@ def main():
     quit()
 
 main()
-
-def new():
