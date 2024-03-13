@@ -22,3 +22,7 @@ NEAT stands for NeuroEvolution of Augmenting Topologies, which is a genetic algo
 **Watch the DEMO here!**
 
 ![4410c16acbd3a4c8a7ace8656f1adf35-ezgif com-video-to-gif-converter](https://github.com/Sam120204/FlappyBird---Python-with-NEAT/assets/75916625/d42d296d-8981-434e-ae72-5bff02ae7e86)
+
+
+**Core Design**
+![image](https://github.com/Sam120204/FlappyBird---Python-with-NEAT/assets/75916625/cc631939-26e1-4ba7-88a3-55e66c43d2df)
